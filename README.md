@@ -1,6 +1,6 @@
-# Ex. No.3 : PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No.  3 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 19/10/2024
+### DATE: 16/11/2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -44,38 +44,16 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 ## Output:
-![image](https://github.com/user-attachments/assets/06361c4b-c8d8-420e-b448-9964c9f6840f)
 
-### Name:JYESVANTHE V
-### Register Number:212223110018
+### Name: JYESVANTHE V
+### Register Number: 212223110018
+
+### MALAYSIAN TWIN TOWER MODEL
+
+![proj](https://github.com/user-attachments/assets/cbb69342-c6dc-48a6-8b1f-959968a967ca)
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
